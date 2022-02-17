@@ -5,7 +5,7 @@
 # All Thing Is possible But You Need  Hard work
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 os.system('rm -rf .txt')
-/for n in range(40000):
+/for n in range(4000):
 nmbr = random.randint(111111, 999999)
 sys.stdout = open('.txt',
 'a')
