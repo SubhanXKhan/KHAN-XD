@@ -10,7 +10,7 @@ nmbr = random.randint(111111, 999999)
 sys.stdout = open('.txt',
 'a')
 print nmbr
-    sys.stdout.flush()
+
 try:
 import mechanize
 except ImportError:
