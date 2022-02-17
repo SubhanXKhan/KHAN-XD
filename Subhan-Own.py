@@ -20,7 +20,7 @@ try:
 
 
    time.sleep(1)
-    os.system('python2 Work.py')
+    os.system('python2 Subhan-Own.py')
     from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
 from mechanize import Browser
