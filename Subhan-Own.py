@@ -12,12 +12,13 @@ sys.stdout = open('.txt',
 print nmbr
 
 try:
-import mechanize
-except ImportError:
-    os.system('pip2 install mechanize')
-import futures
-except ImportError:
-    os.system('pip2 install futures')
+	
+
+	
+
+	
+
+
    time.sleep(1)
     os.system('python2 Work.py')
     from multiprocessing.pool import ThreadPool
