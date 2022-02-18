@@ -131,7 +131,7 @@ def gen():
 		else:print("   [!] Invalid Cookie").format(R,N);gen()
 	except Exception as e:
 		print("   [!] Error : %s"%e);gen()
-                logs()
+                logo()
 def log_token():
 	data = raw_input("   [•] Token :")
 	try:
