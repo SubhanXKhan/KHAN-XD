@@ -174,7 +174,7 @@ def convert():
 def bot_komen():
 	try:
 		toket=open('login.txt','r').read()
-	except IOError 
+	
 	
 	
 	
