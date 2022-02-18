@@ -175,7 +175,7 @@ def bot_komen():
 	try:
 		toket=open('login.txt','r').read()
 	except IOError:
-		print"   [!] Token invalid"
+		print '   [!] Token invalid
 		logs()
 		oe = open('/sdcard/ok.txt', 'r').read().splitlines()
 		toket = open('login.txt', 'r').read()
