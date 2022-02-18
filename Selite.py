@@ -162,7 +162,7 @@ else:
 
 
                     
-                    def pilih_alam():
+                    
                         global alam
                         pil_b = input(war + 'Do you want to make a sound / alarm if the results of the crack come out? (Y/n) : ')
                         if pil_b == 'y' or pil_b == 'Y':
