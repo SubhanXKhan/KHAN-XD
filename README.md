@@ -1,5 +1,5 @@
 # KHAN-XD 
-it's Subhan 
+IT'S YOUR DAD SUBHAN KHAN 😱😱
 
 If You Are Bad Then I am Your Dad 💪💉 
 
