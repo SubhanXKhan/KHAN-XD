@@ -1,11 +1,13 @@
 # KHAN-XD 
 it's Subhan 
+
 If You Are Bad Then I am Your Dad 💪💉 
 
 ___________________________________
 
 
 #Installation
+
 pkg update && apt upgrade 
 
 pkg install python -y 
@@ -42,4 +44,5 @@ python2 python2 SUBHAN-OK.py
 ___________________________________
 
 This is paid Tools Bro 
+
 Whatsapp 03189339494
