@@ -36,7 +36,7 @@ logo = """
 \n\x1b[1;97m##::. ##: ##:::: ##: ##:::: ##: ##::. ##:
 \n\x1b[1;94m..::::..::..:::::..::..:::::..::..::::..:: 
 
-\n\x1b[1;92m         Subhan Khan~                       \n\x1b[1;91m-----------------------------------------------\n\x1b[1;92m\xe2\x9e\xa3 Author : Subhan Khan x ?????\n\x1b[1;91m\xe2\x9e\xa3 Github : https://github.com/SubhanXKhan\n\x1b[1;98m\xe2\x9e\xa3 WP NO: +923189339494\n\x1b[1;91m-----------------------------------------------'"""
+\n\x1b[1;92m         Subhan Khan~                       \n\x1b[1;98m-----------------------------------------------\n\x1b[1;92m\xe2\x9e\xa3 Author : Subhan Khan x Lewanay\n\x1b[1;91m\xe2\x9e\xa3 Github : https://github.com/SubhanXKhan\n\x1b[1;96m\xe2\x9e\xa3 WP NO: +923189339494\n\x1b[1;91m-----------------------------------------------'"""
 
 def reg():
     os.system('clear')
